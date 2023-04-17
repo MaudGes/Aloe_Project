@@ -3,7 +3,7 @@
 This is the 2 weeks real world project realised to validate the data analysis bootcamp. To be able to publicly show this data. Everything has been anonymized.
 The data used here also stop at the end of August 2022 to avoid giving the latest information.
 
-The company is a young company that manufactures and sell pharmaceutical products made with Aloe Vera to pharmacies in France.
+The company is a young company that manufactures and sells pharmaceutical products made with Aloe Vera to pharmacies in France.
 
 You can find:
 A file containing all sales and information needed to identify a sale.
@@ -18,4 +18,3 @@ The project is not finished yet, however, by the bootcamp's requirements, the da
 Tableau public to allow everyone to see the results !
 
 Thank you!
-Maud
