@@ -15,7 +15,6 @@ Common keys :
 - Between Sales and Clients : "code_cip_id". The CIP code is a unique identifier for pharmaceutical establishments.
 - Between Salesrep and Sales : "salesrep_id"
 
-The project is not finished yet, however, by the bootcamp's requirements, the data visualisation will be made in tableau. Once everything is done, I will add a link to 
-Tableau public to allow everyone to see the results !
+To deepen the analysis, data visualisation will be made in tableau.
 
 Thank you!
