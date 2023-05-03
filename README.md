@@ -1,7 +1,7 @@
 # Aloe_Project
 
-This is the 2 weeks real world project realised to validate the data analysis bootcamp. To be able to publicly show this data. Everything has been anonymized.
-The data used here also stop at the end of August 2022 to avoid giving the latest information.
+This is a personal project made for a friend. To be able to publicly show this data. Everything has been anonymized.
+The data used here also stops at the end of August 2022 to avoid giving the latest information.
 
 The company is a young company that manufactures and sells pharmaceutical products made with Aloe Vera to pharmacies in France.
 
