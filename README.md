@@ -1,4 +1,6 @@
-# Aloe_Project
+Python _ Aloe_Project
+
+
 Commercial Data Analysis projects for a young pharmaceutical company
 
 This is a personal project to help a young company. To be able to publicly show this data. Everything has been anonymized.
