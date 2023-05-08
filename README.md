@@ -1,5 +1,4 @@
-Python _ Aloe_Project
-
+# Aloe_Project
 
 Commercial Data Analysis projects for a young pharmaceutical company
 
