@@ -8,13 +8,12 @@ The company manufactures and sells pharmaceutical products made with Aloe Vera t
 
 You can find:
 A file containing all sales and information needed to identify a sale.
+
 A file with all the client's (pharmacies') names and information (address, email and anything that allows identification have been removed).
+
 A file containing all the sales representatives' information to be able to identify who made a sale (first and last names have been changed).
 
-Common keys : 
-- Between Sales and Clients : "code_cip_id". The CIP code is a unique identifier for pharmaceutical establishments.
-- Between Salesrep and Sales : "salesrep_id"
 
-To deepen the analysis, data visualisation will be made in tableau.
+The "cleaned sales" file is the outpout of the data cleaning the notebook. To deepen the analysis, data visualisation will be made in tableau.
 
 Thank you!
