@@ -15,6 +15,6 @@ A file with all the client's (pharmacies') names and information (address, email
 A file containing all the sales representatives' information to be able to identify who made a sale (first and last names have been changed).
 
 
-The "cleaned sales" file is the outpout of the data cleaning the notebook. To deepen the analysis, data visualisation will be made in tableau.
+The "cleaned sales" file is the outpout of the data cleaning part of the notebook. To deepen the analysis, data visualisation will be made in tableau.The analysis made in the notebook is a preliminary analysis. 
 
 Thank you!
